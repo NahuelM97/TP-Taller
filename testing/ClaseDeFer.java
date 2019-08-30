@@ -1,11 +1,10 @@
 package testing;
 
-public class ClaseDeFer {
-    public ClaseDeFer() {
-        super();
+public class ClaseDeFer 
+{
+    public ClaseDeFer()
+    {
+        System.out.println("Fernando");
     }
 
-    public static void main(String[] args) {
-        ClaseDeFer claseDeFer = new ClaseDeFer();
-    }
 }
