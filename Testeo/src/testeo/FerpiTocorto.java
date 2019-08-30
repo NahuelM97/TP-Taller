@@ -4,6 +4,6 @@ public class FerpiTocorto
 {
     public FerpiTocorto()
     {
-        super();
+        System.out.println("LOL TROLIADO PVTO");
     }
 }
