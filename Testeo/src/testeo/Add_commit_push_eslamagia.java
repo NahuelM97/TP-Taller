@@ -2,6 +2,6 @@ package testeo;
 
 public class Add_commit_push_eslamagia {
     public Add_commit_push_eslamagia() {
-        super();//algo bnuevo 19.22
-    }// dsfdsfsdfsdfsdd quiero barch nuevo dsfsdfsd  iiiiiiiiiiiiiiiiiiiiiiiiiii
+        super();//algo bnuevo 19.22weddcsf
+    }// dsfdsfsdfsdfsdd quiero barchsfgdfg nuevo dsfsdfsd  iiiiiiiiiiiiiiiiiiiiiiiiiii
 }
