@@ -79,6 +79,7 @@
          </list>
          <list n="url-path">
             <url path="."/>
+            <url path="../TP-Taller2/"/>
          </list>
       </hash>
    </hash>
